@@ -9,4 +9,4 @@ Part 1. Creating two data sets (StarWarsPlanets and Exoplanets) using data scrap
 
 Part 2. Data cleaning. Extracting numerical values and their units, standardizing data to chosen base units. Exporting cleaned frames as csv files.
 
-Part 3. Creating algorithm that will compare two prepared data sets, finding elements that are closest to each other.
+Part 3. Creating algorithm that will compare two prepared data sets, finding elements that are closest to each other. Conducting Data Analysis of chosen aspects of created data sets.
